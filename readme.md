@@ -1,2 +1,3 @@
-#My first chrome extenstion
+# My first chrome extenstion
 This is a learning project. learning and understanding how to develop a chrome extenstion
+# This is fun
